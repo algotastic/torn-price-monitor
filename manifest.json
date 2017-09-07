@@ -11,7 +11,6 @@
   },
   "permissions": [
     "activeTab",
-    "https://ajax.googleapis.com/",
-    "https://api.torn.com"
+    "https://ajax.googleapis.com/"
   ]
 }
